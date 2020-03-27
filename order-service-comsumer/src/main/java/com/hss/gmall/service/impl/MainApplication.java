@@ -6,7 +6,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.hss.gmall.service.OrderService;
 
-//222
+//222111
 public class MainApplication {
 
 	public static void main(String[] args) throws IOException {
